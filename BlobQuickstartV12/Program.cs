@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlobQuickstartV12
 {
+    // comment
     class Program
     {
         static async Task Main()
